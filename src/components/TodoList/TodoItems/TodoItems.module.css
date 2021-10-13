@@ -1,0 +1,7 @@
+.todoItems {
+    margin: 30px auto;
+    padding: 0;
+    list-style: none;
+    background-color: #24273D;
+    border-radius: 6px;
+}
